@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes Zomato restaurant data using Python to gain insights into customer preferences, restaurant ratings, and pricing trends.   
 The dataset is processed, cleaned, and visualized to extract meaningful conclusions. 
- 
+  
 ## Features
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis (EDA) to identify key trends. 
